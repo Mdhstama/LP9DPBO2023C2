@@ -15,7 +15,10 @@ Spesifikasi:
 
 **DEMO SQL**
 
+https://github.com/Mdhstama/LP9DPBO2023C2/assets/99590350/48822995-d934-46f0-b712-ff659ebf0db0
 
 **DEMO PROGRAM**
+
+https://github.com/Mdhstama/LP9DPBO2023C2/assets/99590350/656e68bd-c70e-47c7-b940-ec46d07493fc
 
 
